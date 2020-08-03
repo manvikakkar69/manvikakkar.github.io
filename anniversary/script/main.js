@@ -51,7 +51,7 @@ const animationTimeline = () => {
     )
     .to(
       ".two",
-      0.7,
+      0.9,
       {
         opacity: 0,
         y: 10
