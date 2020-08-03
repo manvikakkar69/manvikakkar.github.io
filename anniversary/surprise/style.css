@@ -4,6 +4,7 @@ body, html {
   height: 100%;
 }
 
+
 body {
   margin: 0;
   background-color: mistyrose;
@@ -11,7 +12,7 @@ body {
   perspective: 800px;
   overflow: hidden;
 }
-
+/*audio { display:none;}*/
 .envelope {
   z-index: 2;
   position: absolute;
